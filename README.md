@@ -22,6 +22,22 @@ A free, non-commercial fan tool for **Escape from Tarkov** (1.0 and later). It r
 
 The screenshots use sample positions, not a real raid.
 
+## Every map
+
+All 13 maps are in the app. Green circles are the always-open exits, the red zones are minefields and other danger areas, and the red markers are boss spawn areas.
+
+| | |
+|---|---|
+| ![Customs](docs/screenshots/maps/customs.jpg) **Customs** | ![Woods](docs/screenshots/maps/woods.jpg) **Woods** |
+| ![Shoreline](docs/screenshots/maps/shoreline.jpg) **Shoreline** | ![Interchange](docs/screenshots/maps/interchange.jpg) **Interchange** |
+| ![Reserve](docs/screenshots/maps/reserve.jpg) **Reserve** | ![Lighthouse](docs/screenshots/maps/lighthouse.jpg) **Lighthouse** |
+| ![Streets of Tarkov](docs/screenshots/maps/streets-of-tarkov.jpg) **Streets of Tarkov** | ![Factory](docs/screenshots/maps/factory.jpg) **Factory** |
+| ![Ground Zero](docs/screenshots/maps/ground-zero.jpg) **Ground Zero** | ![The Lab](docs/screenshots/maps/the-lab.jpg) **The Lab** (no plain walk-in exit) |
+| ![The Labyrinth](docs/screenshots/maps/the-labyrinth.jpg) **The Labyrinth** (two exits in the data) | ![Icebreaker](docs/screenshots/maps/icebreaker.jpg) **Icebreaker** (one exit in the data) |
+| ![Terminal](docs/screenshots/maps/terminal.jpg) **Terminal** (no extract data yet) | |
+
+The Lab, Labyrinth and Icebreaker load their map pictures from tarkov.dev, so they need an internet connection. Terminal, Icebreaker and Labyrinth have little or no extract data because the source data is thin. Position accuracy on the Factory, Lab and Labyrinth maps is lightly tested.
+
 > Not affiliated with, endorsed by, or connected to Battlestate Games. Escape from Tarkov is a trademark of Battlestate Games Limited. This is an unofficial fan project.
 
 ## Quick start
