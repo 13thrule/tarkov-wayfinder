@@ -1,0 +1,10 @@
+# Downloaded at setup (see scripts/fetch-data.mjs). Map art is CC BY-NC-SA, so it is not redistributed here.
+data/*
+!data/safe.json
+
+# Your own data
+data/last-fix.json
+node_modules/
+*.log
+.DS_Store
+Thumbs.db

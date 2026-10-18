@@ -1,0 +1,15 @@
+{
+  "name": "tarkov-wayfinder",
+  "version": "0.1.0",
+  "description": "A free, non-commercial fan tool for Escape from Tarkov: maps, extracts, quests, loot, bosses, keys, prices, hideout and a stash value reader. Runs locally.",
+  "license": "PolyForm-Noncommercial-1.0.0",
+  "author": "13thrule",
+  "type": "module",
+  "private": false,
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "start": "node server.js",
+    "setup": "node scripts/fetch-data.mjs"
+  },
+  "keywords": ["escape-from-tarkov", "tarkov", "map", "fan-tool", "non-commercial"]
+}

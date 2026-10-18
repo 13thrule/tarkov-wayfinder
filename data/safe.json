@@ -1,0 +1,45 @@
+{
+  "_source": "Official EFT Wiki per-map extract tables (pages edited 2026-09-29..2026-10-15), plain walk-in exits with no key/item/flare/timer/co-op requirement. Names are the English display names. Verify in raid.",
+  "factory": {
+    "pmc": ["Courtyard Gate", "Gate 0", "Gate 3"],
+    "scav": ["Camera Bunker Door", "Office Window", "Gate 3"]
+  },
+  "customs": {
+    "pmc": ["Crossroads", "Trailer Park"],
+    "scav": ["Administration Gate", "Gate Near Medblock", "Railroad to Port", "Railroad to Tarkov", "Reserve Checkpoint", "Old Gas Station"]
+  },
+  "woods": {
+    "pmc": ["Outskirts", "UN Roadblock", "Northern UN Roadblock"],
+    "scav": ["Boat", "Dead Man's Place", "Eastern Rocks", "Mountain Stash", "Old Railway Depot", "RUAF Roadblock", "Scav Bunker", "Scav House"]
+  },
+  "interchange": {
+    "pmc": ["Emercom Checkpoint", "Railway Exfil"],
+    "scav": ["Emercom Checkpoint", "Railway Exfil"]
+  },
+  "shoreline": {
+    "pmc": ["Path to Lighthouse", "Railway Bridge", "Road to Customs", "Tunnel"],
+    "scav": ["Admin Basement", "East Wing Gym Entrance", "Lighthouse", "Ruined Road", "Road to Customs"]
+  },
+  "reserve": {
+    "pmc": ["Sewer Manhole"],
+    "scav": ["Checkpoint Fence", "Depot Hermetic Door", "Heating Pipe", "Hole in the Wall by the Mountains"]
+  },
+  "lighthouse": {
+    "pmc": ["Northern Checkpoint", "Southern Road", "Path to Shoreline"],
+    "scav": ["Hideout Under the Landing Stage", "Industrial Zone Gates", "Scav Hideout at the Grotto", "Southern Road Landslide"]
+  },
+  "streets-of-tarkov": {
+    "pmc": ["Collapsed Crane", "Crash Site", "Damaged House", "Expo Checkpoint", "Sewer River", "Stylobate Building Elevator"],
+    "scav": ["Cardinal Apartment Complex Parking", "Entrance to Catacombs", "Klimov Shopping Mall Exfil", "Near Kamchatskaya Arch", "Sewer Manhole", "Ventilation Shaft"]
+  },
+  "ground-zero": {
+    "pmc": ["Emercom Checkpoint", "Nakatani Basement Stairs"],
+    "scav": ["Emercom Checkpoint", "Nakatani Basement Stairs"]
+  },
+  "notes": {
+    "customs|ZB-1011": "Wiki says always open, one source says only some raids - verify in raid.",
+    "reserve|Sewer Manhole": "Needs an empty backpack slot (no backpack).",
+    "reserve|Depot Hermetic Door": "Conditions disputed between sources - verify in raid."
+  },
+  "none": ["the-lab", "terminal", "icebreaker", "the-labyrinth"]
+}
