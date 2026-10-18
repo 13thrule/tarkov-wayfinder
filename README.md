@@ -10,6 +10,18 @@ A free, non-commercial fan tool for **Escape from Tarkov** (1.0 and later). It r
 - **Stash value.** Read a screenshot of your stash and total what it is worth (it makes mistakes, you check them).
 - **Raid timer** and a **notes** field on each exit.
 
+![Customs map with exits, your position and a route to the nearest always-open extract](docs/screenshots/map-and-exits.jpg)
+
+## Screenshots
+
+| | |
+|---|---|
+| ![Bosses, minefields and locked doors on the Intel tab](docs/screenshots/bosses-and-danger-zones.jpg) **Intel**: boss spawn chances, minefields, locked doors by key | ![Loot container spots on the map](docs/screenshots/loot-spots.jpg) **Loot**: where containers can spawn, filtered by type |
+| ![Quest objectives pinned on the map](docs/screenshots/quest-markers.jpg) **Quests**: tick a quest to pin its objectives | ![Item search showing a key and the doors it opens](docs/screenshots/items-and-keys.jpg) **Items**: prices, and which doors a key opens |
+| ![Hideout craft profit table](docs/screenshots/hideout-crafts.jpg) **Hideout**: upgrade shopping list and craft profits | ![Ammo table](docs/screenshots/ammo.jpg) **Ammo**: damage, penetration and armour damage |
+
+The screenshots use sample positions, not a real raid.
+
 > Not affiliated with, endorsed by, or connected to Battlestate Games. Escape from Tarkov is a trademark of Battlestate Games Limited. This is an unofficial fan project.
 
 ## Quick start
